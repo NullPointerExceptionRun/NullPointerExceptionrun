@@ -5,8 +5,6 @@
 Tenho 22 anos, Atualmente participo de um programa de bolsa de estudos da Generation brasil com foco em JAVA FullStack.
 Sou curioso e busco constantemente aprender o que não sei, Faço projetos em HTML5 e CSS3 e JavaScript, e pretendo evoluir minhas skills para React.js!
 
-Com um pensamento focado em uma carreira solida, e estudando todos os dias, busco melhorar minhas skills e softskills que são primordiais para um ambiente de trabalho. Busco até o momento com projetos pessoais e cursos com mentorias, O que eu acredito que seja um caminho para minha inserção no mercado de trabalho como Junior em desenvolvimento. Acredito que quando esse momento chegar já terei uma base solida de tudo que amo fazer e aplicar no meu dia a dia!
-
 O que me define até esse momento ?
 
 ◉ Protagonismo
