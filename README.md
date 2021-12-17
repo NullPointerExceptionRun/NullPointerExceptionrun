@@ -25,7 +25,7 @@ Sou curioso e busco constantemente aprender o que não sei, Faço projetos em HT
 </p>
 
 <p float="left" align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=herculesdevbr&bg_color=141321&color=f7418a&line=b83d62&point=583f79&area=true&hide_border=false" width="" height="253px" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=herculesdevbr&bg_color=141321&color=f7418a&line=b83d62&point=583f79&area=true&hide_border=false" width="" height="251px" />
   &nbsp; &nbsp;
 
 <div align="center">
