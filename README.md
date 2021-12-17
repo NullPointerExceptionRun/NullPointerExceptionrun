@@ -2,20 +2,8 @@
 
 ### Sobre Mim:
 
-Tenho 22 anos, Atualmente participo de um programa de bolsa de estudos da Generation brasil com foco em JAVA FullStack.
+Tenho 23 anos, Atualmente participo de um programa de bolsa de estudos da Generation brasil com foco em JAVA FullStack.
 Sou curioso e busco constantemente aprender o que não sei, Faço projetos em HTML5 e CSS3 e JavaScript, e pretendo evoluir minhas skills para React.js!
-
-O que me define até esse momento ?
-
-◉ Protagonismo
-◉ Liderança
-◉ Proatividade
-◉ Comunicação
-◉ Constância
-◉ Persistência
-◉ Aprender a aprender
-
-Bom... Sou um entusiasta da tecnologia e acredito que somente ela tornará um mundo mais acessível e igualitário para todos 👨👩👳👦 !
 ### Principais Hard Skills:
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)&nbsp;
