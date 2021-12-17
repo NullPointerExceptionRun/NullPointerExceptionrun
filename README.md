@@ -4,25 +4,6 @@
 
 Tenho 23 anos, Atualmente participo de um programa de bolsa de estudos da Generation brasil com foco em JAVA FullStack.
 Sou curioso e busco constantemente aprender o que não sei, Faço projetos em HTML5 e CSS3 e JavaScript, e pretendo evoluir minhas skills para React.js!
-### Principais Hard Skills:
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-
-### Principais Soft Skills:
-
-![Colaboração](https://img.shields.io/badge/-Colabora%C3%A7%C3%A3o-05122C?style=for-the-badge&logo=&logoColor=ffffff)&nbsp;
-![Flexibilidade](https://img.shields.io/badge/-flexibilidade-05122C?style=for-the-badge&logo=&logoColor=ffffff)&nbsp;
-![Comunicação](https://img.shields.io/badge/-Comunica%C3%A7%C3%A3o-05122C?style=for-the-badge&logo=&logoColor=ffffff)&nbsp;
-        
-### Ferramentas
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows)&nbsp;
-![notion](https://img.shields.io/badge/-Notion-05122A?style=for-the-badge&logo=notion&logoColor=ffffff)&nbsp;
 
 ### Estudando no momento:
 
