@@ -58,9 +58,17 @@ Bom... Sou um entusiasta da tecnologia e acredito que somente ela tornará um mu
 
 ### Hercules Santos on social media:
 
-<a href="https://www.linkedin.com/in/hercules-santos-000672174/"><img src="https://img.shields.io/badge/-Hercules Santos-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/hercules_santos22/"><img src="https://img.shields.io/badge/-@hercules22-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=herculesdevbr&label=Profile%20views&color=0e75b6&style=flat" alt="herculesdevbr" /> </p>      
- 
+## Meus Status:  
 
+<p float="left" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herculesdevbr&theme=radical&layout=compact" height="150px" />
+  &nbsp; &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=herculesdevbr&show_icons=true&title_color=f7418a&icon_color=BBB&text_color=BBB&bg_color=141321&include_all_commits=true" height="150px" />
+</p>
+
+<p float="left" align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=herculesdevbr&bg_color=141321&color=f7418a&line=b83d62&point=583f79&area=true&hide_border=false" width="" height="180px" />
+  &nbsp; &nbsp;
+  <img src="https://wakatime.com/share/@herculesdevbr/8fb9f87b-24d0-4ea0-a810-5c7434396ea8.svg" height="180px">
+</p>
