@@ -59,6 +59,9 @@ Bom... Sou um entusiasta da tecnologia e acredito que somente ela tornará um mu
   <img src="https://activity-graph.herokuapp.com/graph?username=herculesdevbr&bg_color=141321&color=f7418a&line=b83d62&point=583f79&area=true&hide_border=false" width="" height="252px" />
   &nbsp; &nbsp;
 
+<div align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=herculesdevbr&theme=monokai&show_icons=true" />
+</div>
 </p>
 
 
