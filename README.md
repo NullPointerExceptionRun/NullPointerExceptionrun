@@ -9,14 +9,7 @@ Sou curioso e busco constantemente aprender o que não sei, Faço projetos em HT
 
 ![GitHub](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-### Áreas de Interesse:
 
-![typescript](https://img.shields.io/badge/-typescript-05122A?style=for-the-badge&logo=typescript)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-05122A?style=for-the-badge&logo=react)&nbsp;
-![GitHub](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-
- ### GitHub Analytics:
-        
 
 <p float="left" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herculesdevbr&theme=radical&layout=compact" height="149px" />
