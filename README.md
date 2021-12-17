@@ -44,22 +44,10 @@ Bom... Sou um entusiasta da tecnologia e acredito que somente ela tornará um mu
 
 ![typescript](https://img.shields.io/badge/-typescript-05122A?style=for-the-badge&logo=typescript)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=for-the-badge&logo=react)&nbsp;
-
+![GitHub](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
  ### GitHub Analytics:
         
- <p align="left">
-  <a href="https://github.com/herculesdevbr">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=herculesdevbr&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herculesdevbr&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</p>
-
-
-### Hercules Santos on social media:
-
-
-## Meus Status:  
 
 <p float="left" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herculesdevbr&theme=radical&layout=compact" height="150px" />
@@ -68,7 +56,9 @@ Bom... Sou um entusiasta da tecnologia e acredito que somente ela tornará um mu
 </p>
 
 <p float="left" align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=herculesdevbr&bg_color=141321&color=f7418a&line=b83d62&point=583f79&area=true&hide_border=false" width="" height="180px" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=herculesdevbr&bg_color=141321&color=f7418a&line=b83d62&point=583f79&area=true&hide_border=false" width="" height="252px" />
   &nbsp; &nbsp;
-  <img src="https://wakatime.com/share/@herculesdevbr/8fb9f87b-24d0-4ea0-a810-5c7434396ea8.svg" height="180px">
+
 </p>
+
+
