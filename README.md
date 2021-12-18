@@ -3,7 +3,7 @@
 ### Sobre Mim:
 
 Tenho 23 anos, Atualmente participo de um programa de bolsa de estudos da Generation brasil com foco em JAVA FullStack.
-Sou curioso e busco constantemente aprender o que não sei, Faço projetos em HTML5 e CSS3 e JavaScript, e pretendo evoluir minhas skills para React.js!
+Sou curioso e busco constantemente aprender o que não sei, Faço projetos em HTML5 e CSS3 e JavaScript, e pretendo evoluir minhas skills para React.js.
 
 ### Estudando no momento:
 
