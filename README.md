@@ -8,9 +8,13 @@ Sou curioso e busco constantemente aprender o que não sei, Faço projetos em HT
 ### Estudando no momento:
 
 ![GitHub](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 
+
+### Git Analytics:
+
+
+<br>
 <p float="left" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herculesdevbr&theme=radical&layout=compact" height="149px" />
   &nbsp; &nbsp;
