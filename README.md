@@ -25,5 +25,3 @@ Sou curioso e busco constantemente aprender o que não sei, Faço projetos em HT
   <img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=herculesdevbr&theme=monokai&show_icons=true" />
 </div>
 </p>
-
-
