@@ -10,5 +10,3 @@
 
 [![rizad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=herculesdevbr&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/herculesdevbr)
 </div>
-
-
