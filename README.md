@@ -1,11 +1,11 @@
 <h1>Welcome </h1>
 
-Tenho 23 anos e atualmente faço faculdade de Analise e desenvolvimento de Sistemas na faculdade Uninove.
-Sempre tive afinidade com tecnologia desde criança, meu amor ao desenvolvimento veio quando pequeno queria criar pequenos sites de games e sistemas.
-Nesse ano de 2021 fui contemplado com uma bolsa de estudo, para estudar em um programa intensivo Generation, onde tive a oportunidade estudar JAVA FullStack.
-Hoje busco conhecimento por fora, busco soluções e problemas para resolver.
-Amo o que eu faço e não me vejo fazendo outra coisa não sendo isso.
-Possuo conhecimentos em : html,css,JavaScript, Java, SpringBoot, MySql.
+Tenho 23 anos e atualmente faço faculdade de Analise e desenvolvimento de Sistemas na faculdade Uninove. <br>
+Sempre tive afinidade com tecnologia desde criança, meu amor ao desenvolvimento veio quando pequeno queria criar pequenos sites de games e sistemas.<br>
+Nesse ano de 2021 fui contemplado com uma bolsa de estudo, para estudar em um programa intensivo Generation, onde tive a oportunidade estudar JAVA FullStack.<br>
+Hoje busco conhecimento por fora, busco soluções e problemas para resolver.<br>
+Amo o que eu faço e não me vejo fazendo outra coisa não sendo isso.<br>
+Possuo conhecimentos em : html,css,JavaScript, Java, SpringBoot, MySql.<br>
 
 
 ![Metrics](https://metrics.lecoq.io/herculesdevbr?template=classic&config.timezone=America%2FBrasilia)
